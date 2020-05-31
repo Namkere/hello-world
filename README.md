@@ -1,2 +1,2 @@
 # hello-world
-A new repository name “helo-worl"
+I'm Namkere. I'm here to learn frontend web development
